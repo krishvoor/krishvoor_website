@@ -19,4 +19,4 @@ Harsha works on helping clients with their Journey to Cloud and digital transfor
 Focusing on complex integration and application modernisation. Influence the enterprise clients and
 IBM teams to confidently adopt cloud platform and services. He is an excellent communicator & collaborator.
 
-*If you are intereted in collaborating, feel free to reach out to me at [contact_me](/contact/) page.*
+*If you are interested in collaborating with me, feel free to reach out to me at [contact_me](/contact/) page.*
