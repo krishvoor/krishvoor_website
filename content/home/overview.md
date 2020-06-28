@@ -15,8 +15,8 @@ subtitle = ""
 weight = 1
 
 +++
-Harsha works on helping clients with their Journey to Cloud and digital transformation.
-Focusing on complex integration and application modernisation. Influence the enterprise clients and
-IBM teams to confidently adopt cloud platform and services. He is an excellent communicator & collaborator.
-
-*If you are interested in collaborating with me, feel free to reach out to me at [contact_me](/contact/) page.*
+Krishna Harsha Voora grew up in different regions and experienced different cultures of India, he fell in love
+with Computers after reading about *First Generation Computer and it's evolution !!*
+This carried into degree in Computer Science & Engineering from an Affiliated College of JNTU Kakinada.
+After Engineering, he is currently working as Software Developer - Cognitive systems of
+IBM India Software Development Labs 

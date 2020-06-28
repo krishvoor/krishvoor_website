@@ -1,43 +1,37 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: OpenPOWER Academia and Research Webinar from Industry expert and IBM India ISV Team
+event: OpenPOWER Academia and Research Webinar
+event_url: https://zoom.us/webinar/register/WN_TUUYGtevQMKfVwD3YWoSjg
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Online Webinar
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Pack-em or stack-em Advantages of running OpenShift on Power
+abstract: This talk is about the (container density, pod scaling) tests performed with OpenShift Container Platform (OCP) and compared different architectures. Effectiveness of using IBM Power Systems with OpenShift Container Platform which can host most containers or pods without performance degradation compared to other platforms. A "DevOps" scenario with a workload similar to a MEAN stack (Mongo, Express, Angular, and Node) is selected. The workload was purposeful to further demonstrate the price-performance advantage of using OpenShift with IBM Power/OpenPOWER Platform.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-06-26T19:00:00Z" 
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-06-26T00:00:00Z"
 
-authors: []
+authors: [Krishna Harsha Voora, Mithun HR]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#  caption: 'Image credit: [****]()'
+#  focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/krishvoor
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -48,7 +42,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -56,7 +50,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- []
 
 # Enable math on this page?
 math: true
