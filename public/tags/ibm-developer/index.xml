@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBM Developer | Krishna Harsha Voora</title>
+    <link>/tags/ibm-developer/</link>
+      <atom:link href="/tags/ibm-developer/index.xml" rel="self" type="application/rss+xml" />
+    <description>IBM Developer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>IBM Developer</title>
+      <link>/tags/ibm-developer/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Quality Of Service in Kubernetes</title>
+      <link>/publication/qos/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/qos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modernizing enterprise business</title>
+      <link>/publication/blockchain/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting Python and Node.js applications to an Oracle database</title>
+      <link>/publication/python_oracle/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/python_oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating a high availability setup for Linux on Power</title>
+      <link>/publication/ha_drdb/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ha_drdb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

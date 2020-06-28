@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun Sar | Krishna Harsha Voora</title>
+    <link>/authors/arun-sar/</link>
+      <atom:link href="/authors/arun-sar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arun Sar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Arun Sar</title>
+      <link>/authors/arun-sar/</link>
+    </image>
+    
+    <item>
+      <title>Modernizing enterprise business</title>
+      <link>/publication/blockchain/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting Python and Node.js applications to an Oracle database</title>
+      <link>/publication/python_oracle/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/python_oracle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
