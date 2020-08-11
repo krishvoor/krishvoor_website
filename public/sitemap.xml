@@ -18,22 +18,57 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-06-26T19:00:00+00:00</lastmod>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/krishna-harsha-voora/</loc>
-    <lastmod>2020-06-26T19:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cloud_native_on_ppc64le/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-26T19:00:00+00:00</lastmod>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/medium-ppc64le-ibm-power-systems/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/mithun-hr/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/krishna-harsha-voora/</loc>
     <lastmod>2020-06-26T19:00:00+00:00</lastmod>
   </url>
   
@@ -45,16 +80,6 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2020-06-26T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,21 +104,6 @@
   
   <url>
     <loc>/authors/lilian-romero/</loc>
-    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
