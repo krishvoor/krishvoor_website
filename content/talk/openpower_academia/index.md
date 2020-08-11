@@ -34,8 +34,8 @@ links:
   url: https://twitter.com/krishvoor
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: "https://www.slideshare.net/ganesannarayanasamy/advantages-of-running-openshift-on-poweropenpower-systems"
+url_video: "https://youtu.be/7xIQYVeIk40"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
